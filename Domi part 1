@@ -1,0 +1,729 @@
+
+DominosDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+			["char"] = {
+				["Экзалтка - Пламегор"] = {
+					["enabled"] = false,
+				},
+			},
+		},
+		["ProgressBars"] = {
+			["char"] = {
+				["Экзалтка - Пламегор"] = {
+					["bars"] = {
+						["exp"] = {
+							["mode"] = "xp",
+						},
+					},
+				},
+			},
+			["global"] = {
+				["version"] = 2,
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Экзалтка - Пламегор"] = "Экзалтка",
+	},
+	["global"] = {
+		["configVersion"] = 2,
+		["addonVersion"] = "10.0.22",
+	},
+	["profiles"] = {
+		["Паладин"] = {
+			["frames"] = {
+				{
+					["point"] = "BOTTOM",
+					["y"] = 14,
+					["pages"] = {
+						["Паладин"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+						["PALADIN"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+					},
+					["unit"] = "none",
+					["padW"] = 2,
+					["x"] = 0,
+					["showEmptyButtons"] = false,
+					["spacing"] = 2,
+					["padH"] = 2,
+					["rightClickUnit"] = "player",
+					["numButtons"] = 12,
+					["displayLayer"] = "LOW",
+				}, -- [1]
+				{
+					["point"] = "BOTTOM",
+					["y"] = 54,
+					["pages"] = {
+						["Паладин"] = {
+						},
+						["PALADIN"] = {
+						},
+					},
+					["unit"] = "none",
+					["padW"] = 2,
+					["x"] = 0,
+					["showEmptyButtons"] = false,
+					["spacing"] = 2,
+					["padH"] = 2,
+					["rightClickUnit"] = "player",
+					["numButtons"] = 12,
+					["displayLayer"] = "LOW",
+				}, -- [2]
+				{
+					["point"] = "BOTTOM",
+					["y"] = 94,
+					["pages"] = {
+						["Паладин"] = {
+						},
+						["PALADIN"] = {
+						},
+					},
+					["unit"] = "none",
+					["padW"] = 2,
+					["x"] = 0,
+					["showEmptyButtons"] = false,
+					["spacing"] = 2,
+					["padH"] = 2,
+					["rightClickUnit"] = "player",
+					["numButtons"] = 12,
+					["displayLayer"] = "LOW",
+				}, -- [3]
+				{
+					["point"] = "BOTTOM",
+					["y"] = 134,
+					["pages"] = {
+						["Паладин"] = {
+						},
+						["PALADIN"] = {
+						},
+					},
+					["unit"] = "none",
+					["padW"] = 2,
+					["x"] = 0,
+					["showEmptyButtons"] = false,
+					["spacing"] = 2,
+					["padH"] = 2,
+					["rightClickUnit"] = "player",
+					["numButtons"] = 12,
+					["displayLayer"] = "LOW",
+				}, -- [4]
+				{
+					["point"] = "BOTTOM",
+					["y"] = 174,
+					["pages"] = {
+						["Паладин"] = {
+						},
+						["PALADIN"] = {
+						},
+					},
+					["unit"] = "none",
+					["padW"] = 2,
+					["x"] = 0,
+					["showEmptyButtons"] = false,
+					["spacing"] = 2,
+					["padH"] = 2,
+					["rightClickUnit"] = "player",
+					["numButtons"] = 12,
+					["displayLayer"] = "LOW",
+				}, -- [5]
+				{
+					["point"] = "BOTTOM",
+					["y"] = 214,
+					["pages"] = {
+						["Паладин"] = {
+						},
+						["PALADIN"] = {
+						},
+					},
+					["unit"] = "none",
+					["padW"] = 2,
+					["x"] = 0,
+					["showEmptyButtons"] = false,
+					["spacing"] = 2,
+					["padH"] = 2,
+					["rightClickUnit"] = "player",
+					["numButtons"] = 12,
+					["displayLayer"] = "LOW",
+				}, -- [6]
+				{
+					["point"] = "BOTTOM",
+					["y"] = 254,
+					["pages"] = {
+						["Паладин"] = {
+						},
+						["PALADIN"] = {
+						},
+					},
+					["unit"] = "none",
+					["padW"] = 2,
+					["x"] = 0,
+					["showEmptyButtons"] = false,
+					["spacing"] = 2,
+					["padH"] = 2,
+					["rightClickUnit"] = "player",
+					["numButtons"] = 12,
+					["displayLayer"] = "LOW",
+				}, -- [7]
+				{
+					["point"] = "BOTTOM",
+					["y"] = 294,
+					["pages"] = {
+						["Паладин"] = {
+						},
+						["PALADIN"] = {
+						},
+					},
+					["unit"] = "none",
+					["padW"] = 2,
+					["x"] = 0,
+					["showEmptyButtons"] = false,
+					["spacing"] = 2,
+					["padH"] = 2,
+					["rightClickUnit"] = "player",
+					["numButtons"] = 12,
+					["displayLayer"] = "LOW",
+				}, -- [8]
+				{
+					["point"] = "BOTTOM",
+					["y"] = 334,
+					["pages"] = {
+						["Паладин"] = {
+						},
+						["PALADIN"] = {
+						},
+					},
+					["unit"] = "none",
+					["padW"] = 2,
+					["x"] = 0,
+					["showEmptyButtons"] = false,
+					["spacing"] = 2,
+					["padH"] = 2,
+					["rightClickUnit"] = "player",
+					["numButtons"] = 12,
+					["displayLayer"] = "LOW",
+				}, -- [9]
+				{
+					["point"] = "BOTTOM",
+					["y"] = 374,
+					["pages"] = {
+						["Паладин"] = {
+						},
+						["PALADIN"] = {
+						},
+					},
+					["unit"] = "none",
+					["padW"] = 2,
+					["x"] = 0,
+					["showEmptyButtons"] = false,
+					["spacing"] = 2,
+					["padH"] = 2,
+					["rightClickUnit"] = "player",
+					["numButtons"] = 12,
+					["displayLayer"] = "LOW",
+				}, -- [10]
+				["exp"] = {
+					["columns"] = 20,
+					["padW"] = 2,
+					["point"] = "BOTTOM",
+					["lockMode"] = true,
+					["texture"] = "blizzard",
+					["numButtons"] = 20,
+					["y"] = 0,
+					["x"] = 0,
+					["padH"] = 2,
+					["spacing"] = 1,
+					["display"] = {
+						["value"] = true,
+						["label"] = true,
+						["max"] = true,
+						["bonus"] = true,
+					},
+					["font"] = "Friz Quadrata TT",
+					["alwaysShowText"] = true,
+					["displayLayer"] = "BACKGROUND",
+				},
+				["possess"] = {
+					["padW"] = 2,
+					["x"] = 244,
+					["point"] = "CENTER",
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 0,
+				},
+				["bags"] = {
+					["y"] = 40,
+					["x"] = 0,
+					["point"] = "BOTTOMRIGHT",
+					["spacing"] = 2,
+					["oneBag"] = false,
+					["keyRing"] = true,
+					["displayLayer"] = "LOW",
+				},
+				["pet"] = {
+					["y"] = -32,
+					["x"] = 0,
+					["point"] = "CENTER",
+					["spacing"] = 6,
+				},
+				["mirrorTimer2"] = {
+					["point"] = "TOP",
+					["w"] = 206,
+					["texture"] = "Blizzard",
+					["y"] = -122,
+					["x"] = 0,
+					["h"] = 26,
+					["font"] = "Friz Quadrata TT",
+					["display"] = {
+						["border"] = true,
+						["time"] = false,
+						["spark"] = false,
+						["label"] = true,
+					},
+					["padH"] = 1,
+					["padW"] = 1,
+					["displayLayer"] = "HIGH",
+				},
+				["cast"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "CENTER",
+					["texture"] = "blizzard",
+					["showInOverrideUI"] = true,
+					["padW"] = 1,
+					["y"] = 30,
+					["x"] = 0,
+					["font"] = "Friz Quadrata TT",
+					["padH"] = 1,
+					["display"] = {
+						["time"] = true,
+						["spark"] = true,
+						["icon"] = false,
+						["border"] = true,
+						["latency"] = true,
+					},
+					["useSpellReactionColors"] = true,
+					["latencyPadding"] = 250,
+					["displayLayer"] = "HIGH",
+				},
+				["roll"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+				["menu"] = {
+					["y"] = 0,
+					["x"] = 0,
+					["point"] = "BOTTOMRIGHT",
+					["displayLayer"] = "LOW",
+				},
+				["mirrorTimer1"] = {
+					["point"] = "TOP",
+					["w"] = 206,
+					["texture"] = "Blizzard",
+					["y"] = -96,
+					["x"] = 0,
+					["h"] = 26,
+					["font"] = "Friz Quadrata TT",
+					["display"] = {
+						["border"] = true,
+						["time"] = false,
+						["spark"] = false,
+						["label"] = true,
+					},
+					["padH"] = 1,
+					["padW"] = 1,
+					["displayLayer"] = "HIGH",
+				},
+				["alerts"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+				["mirrorTimer3"] = {
+					["point"] = "TOP",
+					["w"] = 206,
+					["texture"] = "Blizzard",
+					["y"] = -148,
+					["x"] = 0,
+					["h"] = 26,
+					["font"] = "Friz Quadrata TT",
+					["display"] = {
+						["border"] = true,
+						["time"] = false,
+						["spark"] = false,
+						["label"] = true,
+					},
+					["padH"] = 1,
+					["padW"] = 1,
+					["displayLayer"] = "HIGH",
+				},
+				["class"] = {
+					["point"] = "CENTER",
+					["spacing"] = 2,
+				},
+			},
+		},
+		["Экзалтка"] = {
+			["frames"] = {
+				{
+					["point"] = "BOTTOM",
+					["showEmptyButtons"] = false,
+					["numButtons"] = 12,
+					["unit"] = "none",
+					["padW"] = 2,
+					["x"] = 0,
+					["y"] = 14,
+					["spacing"] = 2,
+					["padH"] = 2,
+					["rightClickUnit"] = "player",
+					["pages"] = {
+						["Паладин"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+						["PALADIN"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+					},
+					["displayLayer"] = "LOW",
+				}, -- [1]
+				{
+					["point"] = "BOTTOM",
+					["showEmptyButtons"] = false,
+					["numButtons"] = 12,
+					["unit"] = "none",
+					["padW"] = 2,
+					["x"] = 0,
+					["y"] = 54,
+					["spacing"] = 2,
+					["padH"] = 2,
+					["rightClickUnit"] = "player",
+					["pages"] = {
+						["Паладин"] = {
+						},
+						["PALADIN"] = {
+						},
+					},
+					["displayLayer"] = "LOW",
+				}, -- [2]
+				{
+					["point"] = "BOTTOM",
+					["showEmptyButtons"] = false,
+					["numButtons"] = 12,
+					["unit"] = "none",
+					["padW"] = 2,
+					["x"] = 0,
+					["y"] = 94,
+					["spacing"] = 2,
+					["padH"] = 2,
+					["rightClickUnit"] = "player",
+					["pages"] = {
+						["Паладин"] = {
+						},
+						["PALADIN"] = {
+						},
+					},
+					["displayLayer"] = "LOW",
+				}, -- [3]
+				{
+					["point"] = "BOTTOM",
+					["showEmptyButtons"] = false,
+					["numButtons"] = 12,
+					["unit"] = "none",
+					["padW"] = 2,
+					["x"] = 0,
+					["y"] = 134,
+					["spacing"] = 2,
+					["padH"] = 2,
+					["rightClickUnit"] = "player",
+					["pages"] = {
+						["Паладин"] = {
+						},
+						["PALADIN"] = {
+						},
+					},
+					["displayLayer"] = "LOW",
+				}, -- [4]
+				{
+					["point"] = "BOTTOM",
+					["showEmptyButtons"] = false,
+					["numButtons"] = 12,
+					["unit"] = "none",
+					["padW"] = 2,
+					["x"] = 0,
+					["y"] = 174,
+					["spacing"] = 2,
+					["padH"] = 2,
+					["rightClickUnit"] = "player",
+					["pages"] = {
+						["Паладин"] = {
+						},
+						["PALADIN"] = {
+						},
+					},
+					["displayLayer"] = "LOW",
+				}, -- [5]
+				{
+					["point"] = "BOTTOM",
+					["showEmptyButtons"] = false,
+					["numButtons"] = 12,
+					["unit"] = "none",
+					["padW"] = 2,
+					["x"] = 0,
+					["y"] = 214,
+					["spacing"] = 2,
+					["padH"] = 2,
+					["rightClickUnit"] = "player",
+					["pages"] = {
+						["Паладин"] = {
+						},
+						["PALADIN"] = {
+						},
+					},
+					["displayLayer"] = "LOW",
+				}, -- [6]
+				{
+					["point"] = "BOTTOM",
+					["showEmptyButtons"] = false,
+					["numButtons"] = 12,
+					["unit"] = "none",
+					["padW"] = 2,
+					["x"] = 0,
+					["y"] = 254,
+					["spacing"] = 2,
+					["padH"] = 2,
+					["rightClickUnit"] = "player",
+					["pages"] = {
+						["Паладин"] = {
+						},
+						["PALADIN"] = {
+						},
+					},
+					["displayLayer"] = "LOW",
+				}, -- [7]
+				{
+					["point"] = "BOTTOM",
+					["showEmptyButtons"] = false,
+					["numButtons"] = 12,
+					["unit"] = "none",
+					["padW"] = 2,
+					["x"] = 0,
+					["y"] = 294,
+					["spacing"] = 2,
+					["padH"] = 2,
+					["rightClickUnit"] = "player",
+					["pages"] = {
+						["Паладин"] = {
+						},
+						["PALADIN"] = {
+						},
+					},
+					["displayLayer"] = "LOW",
+				}, -- [8]
+				{
+					["point"] = "BOTTOM",
+					["showEmptyButtons"] = false,
+					["numButtons"] = 12,
+					["unit"] = "none",
+					["padW"] = 2,
+					["x"] = 0,
+					["y"] = 334,
+					["spacing"] = 2,
+					["padH"] = 2,
+					["rightClickUnit"] = "player",
+					["pages"] = {
+						["Паладин"] = {
+						},
+						["PALADIN"] = {
+						},
+					},
+					["displayLayer"] = "LOW",
+				}, -- [9]
+				{
+					["point"] = "BOTTOM",
+					["showEmptyButtons"] = false,
+					["numButtons"] = 12,
+					["unit"] = "none",
+					["padW"] = 2,
+					["x"] = 0,
+					["y"] = 374,
+					["spacing"] = 2,
+					["padH"] = 2,
+					["rightClickUnit"] = "player",
+					["pages"] = {
+						["Паладин"] = {
+						},
+						["PALADIN"] = {
+						},
+					},
+					["displayLayer"] = "LOW",
+				}, -- [10]
+				["exp"] = {
+					["font"] = "Friz Quadrata TT",
+					["columns"] = 20,
+					["displayLayer"] = "BACKGROUND",
+					["alwaysShowText"] = true,
+					["lockMode"] = true,
+					["display"] = {
+						["value"] = true,
+						["bonus"] = true,
+						["max"] = true,
+						["label"] = true,
+					},
+					["y"] = 0,
+					["x"] = 0,
+					["padW"] = 2,
+					["spacing"] = 1,
+					["padH"] = 2,
+					["point"] = "BOTTOM",
+					["numButtons"] = 20,
+					["texture"] = "blizzard",
+				},
+				["possess"] = {
+					["y"] = 0,
+					["x"] = 244,
+					["point"] = "CENTER",
+					["spacing"] = 4,
+					["padH"] = 2,
+					["padW"] = 2,
+				},
+				["bags"] = {
+					["y"] = 40,
+					["x"] = 0,
+					["point"] = "BOTTOMRIGHT",
+					["spacing"] = 2,
+					["oneBag"] = false,
+					["keyRing"] = true,
+					["displayLayer"] = "LOW",
+				},
+				["pet"] = {
+					["y"] = -32,
+					["x"] = 0,
+					["point"] = "CENTER",
+					["spacing"] = 6,
+				},
+				["mirrorTimer2"] = {
+					["point"] = "TOP",
+					["w"] = 206,
+					["displayLayer"] = "HIGH",
+					["y"] = -122,
+					["h"] = 26,
+					["padW"] = 1,
+					["padH"] = 1,
+					["display"] = {
+						["border"] = true,
+						["spark"] = false,
+						["time"] = false,
+						["label"] = true,
+					},
+					["x"] = 0,
+					["font"] = "Friz Quadrata TT",
+					["texture"] = "Blizzard",
+				},
+				["cast"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "CENTER",
+					["displayLayer"] = "HIGH",
+					["showInOverrideUI"] = true,
+					["latencyPadding"] = 250,
+					["padW"] = 1,
+					["font"] = "Friz Quadrata TT",
+					["useSpellReactionColors"] = true,
+					["display"] = {
+						["time"] = true,
+						["spark"] = true,
+						["border"] = true,
+						["icon"] = false,
+						["latency"] = true,
+					},
+					["padH"] = 1,
+					["x"] = 0,
+					["y"] = 30,
+					["texture"] = "blizzard",
+				},
+				["roll"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+				["class"] = {
+					["point"] = "CENTER",
+					["spacing"] = 2,
+				},
+				["mirrorTimer1"] = {
+					["point"] = "TOP",
+					["w"] = 206,
+					["displayLayer"] = "HIGH",
+					["y"] = -96,
+					["h"] = 26,
+					["padW"] = 1,
+					["padH"] = 1,
+					["display"] = {
+						["border"] = true,
+						["spark"] = false,
+						["time"] = false,
+						["label"] = true,
+					},
+					["x"] = 0,
+					["font"] = "Friz Quadrata TT",
+					["texture"] = "Blizzard",
+				},
+				["mirrorTimer3"] = {
+					["point"] = "TOP",
+					["w"] = 206,
+					["displayLayer"] = "HIGH",
+					["y"] = -148,
+					["h"] = 26,
+					["padW"] = 1,
+					["padH"] = 1,
+					["display"] = {
+						["border"] = true,
+						["spark"] = false,
+						["time"] = false,
+						["label"] = true,
+					},
+					["x"] = 0,
+					["font"] = "Friz Quadrata TT",
+					["texture"] = "Blizzard",
+				},
+				["alerts"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+				["menu"] = {
+					["y"] = 0,
+					["x"] = 0,
+					["point"] = "BOTTOMRIGHT",
+					["displayLayer"] = "LOW",
+				},
+			},
+		},
+	},
+}
